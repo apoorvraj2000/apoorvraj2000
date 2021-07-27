@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **saxenapoorv2000@gmail.com**
-![Android Cover](https://user-images.githubusercontent.com/71177837/127156516-9c66c6b9-2cce-4c52-bc03-c6faa4f97874.jpg)
+![Android Cover](https://user-images.githubusercontent.com/71177837/127157250-5a6a3b8f-df66-4fc9-b6f7-f5e36c16fb21.jpg)
 
 ## About Me 🤷🏻‍♂️
 * My primary coding language: Java
