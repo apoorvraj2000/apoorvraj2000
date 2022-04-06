@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Apoorv Raj Saxena</h1>
-<h3 align="center">A Passionate Android Developer & Competitive Programmer</h3>
+<h3 align="center">A Passionate Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvraj2000&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvraj2000" /> </p>
 
