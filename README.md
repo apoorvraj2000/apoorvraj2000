@@ -8,10 +8,11 @@
 ![Android Cover](https://user-images.githubusercontent.com/71177837/127157250-5a6a3b8f-df66-4fc9-b6f7-f5e36c16fb21.jpg)
 
 ## About Me 🤷🏻‍♂️
+* 🧑‍🎓 SWE at Persistent Systems
 * My primary coding language: Java
+* 400+ problems@ Leetcode
 * Earned Gold badge & 5 star at HackerRank in Java & C++ programming.
 * 3 Star on CodeChef (Max Rating-1647)
-* 🧑‍🎓 Final Year Undergrad Student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
